@@ -1,5 +1,4 @@
 # Profinet-guide-UR
-Profinet connection between UR3e and Siemens S71500
 
 Guide til profinet forbindelse mellem UR3e og S71500. 
 
